@@ -14,7 +14,7 @@ For example, regex "abc*bcd" matches
 Return the length of the longest substring of *text* that matches the expression *regex*.
 Return *-1* if there is no such substring.
 <br> <br>
-**Constrains:**
+**Constrains:** <br>
 1<=|*text*|.|*regex*|<=10e6
 *text* contains lowercase English Letters only.
 *regex* contains lowercase English letters and exactly one wildcard(\*) character.
