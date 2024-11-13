@@ -5,9 +5,11 @@ The string *regex* contains exactly one wildcard character(\*). A wildcard chara
 matches any sequence of zero or more lowercase English characters. A regex matches some string
 if it is possible to replace the wildcard character with some sequence of characters such that
 the regex expression becomes equal to the string.
-No other character can be changes. For example, regex "abc*bcd" matches
+No other character can be changes. 
+<br>
+For example, regex "abc*bcd" matches
 "**abcbcd**,"**abc**cefg**bcd**" and "**abc**c**bcd**" whereas it does not match the strings
-"**abc**bd", "abz**bcd**","**abc**d".  
+"**abc**bd", "abz**bcd**","**abc**d".
 <br>
 Return the length of the longest substring of *text* that matches the expression *regex*.
 Return *-1* if there is no such substring.
