@@ -8,10 +8,10 @@ the regex expression becomes equal to the string.
 No other character can be changes. For example, regex "abc*bcd" matches
 "**abcbcd**,"**abc**cefg**bcd**" and "**abc**c**bcd**" whereas it does not match the strings
 "**abc**bd", "abz**bcd**","**abc**d".  
-  
+<br>
 Return the length of the longest substring of *text* that matches the expression *regex*.
-Return *-1* if there is no such substring.  
-  
+Return *-1* if there is no such substring.
+<br>
 **Constrains:**
 1<=|*text*|.|*regex*|<=10e6
 *text* contains lowercase English Letters only.
