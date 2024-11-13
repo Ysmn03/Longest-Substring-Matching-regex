@@ -15,6 +15,6 @@ Return the length of the longest substring of *text* that matches the expression
 Return *-1* if there is no such substring.
 <br> <br>
 **Constrains:** <br>
-1<=|*text*|.|*regex*|<=10e6
-*text* contains lowercase English Letters only.
+1<=|*text*|.|*regex*|<=10e6 <br>
+*text* contains lowercase English Letters only.<br>
 *regex* contains lowercase English letters and exactly one wildcard(\*) character.
