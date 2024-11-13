@@ -21,6 +21,8 @@ Return *-1* if there is no such substring.
 <br>
 **Examples** <br>
 hackerrank
+
+
 ack\*r
 ans=6
 <br>
