@@ -20,16 +20,14 @@ Return *-1* if there is no such substring.
 *regex* contains lowercase English letters and exactly one wildcard(\*) character.
 <br>
 **Examples** <br>
-hackerrank
-
-
-ack\*r
-ans=6
+hackerrank <br>
+ack\*r <br>
+ans=6 <br>
 <br>
-debug
-ug\*eb
-ans=-1
+debug <br>
+ug\*eb <br>
+ans=-1 <br>
 <br>
-programming
-r\*in
+programming <br>
+r\*in <br>
 ans=9
