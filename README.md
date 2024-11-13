@@ -14,13 +14,13 @@ For example, regex "abc*bcd" matches
 Return the length of the longest substring of *text* that matches the expression *regex*.
 Return *-1* if there is no such substring.
 <br> <br>
-**Constrains:** <br>
+**- Constrains:** <br>
 1<=|*text*|.|*regex*|<=10e6 <br>
 *text* contains lowercase English Letters only.<br>
 *regex* contains lowercase English letters and exactly one wildcard(\*) character.
 <br>
 <br>
-**Examples** <br>
+**- Examples:** <br>
 hackerrank <br>
 ack\*r <br>
 ans=6 <br>
