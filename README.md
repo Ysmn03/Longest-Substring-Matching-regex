@@ -19,6 +19,7 @@ Return *-1* if there is no such substring.
 *text* contains lowercase English Letters only.<br>
 *regex* contains lowercase English letters and exactly one wildcard(\*) character.
 <br>
+<br>
 **Examples** <br>
 hackerrank <br>
 ack\*r <br>
