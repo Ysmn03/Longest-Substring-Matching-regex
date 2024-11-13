@@ -18,3 +18,16 @@ Return *-1* if there is no such substring.
 1<=|*text*|.|*regex*|<=10e6 <br>
 *text* contains lowercase English Letters only.<br>
 *regex* contains lowercase English letters and exactly one wildcard(\*) character.
+<br>
+**Examples** <br>
+hackerrank
+ack\*r
+ans=6
+<br>
+debug
+ug\*eb
+ans=-1
+<br>
+programming
+r\*in
+ans=9
